@@ -1,5 +1,5 @@
 {
-  "name": "passport-saml",
+  "name": "@welbi/passport-saml",
   "version": "1.3.4",
   "license": "MIT",
   "keywords": [
